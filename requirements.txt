@@ -1,2 +1,8 @@
 streamlit==1.17.0
 summarizer==0.0.7
+rake-nltk==1.0.6
+nltk==3.7
+transformers==4.25.1
+
+
+
