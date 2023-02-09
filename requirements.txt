@@ -1,0 +1,2 @@
+streamlit==1.17.0
+summarizer==0.0.7
