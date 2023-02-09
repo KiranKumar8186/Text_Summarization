@@ -2,7 +2,7 @@ import streamlit as st
 import time
 import os
 from tempfile import NamedTemporaryFile
-from summarizer import Summarizer, TransformerSummarizer
+from summarizer import TransformerSummarizer
 
 st.title("Text Summarization")
 st.markdown("---")
