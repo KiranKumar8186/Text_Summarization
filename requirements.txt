@@ -1,4 +1,5 @@
 streamlit==1.17.0
 spacy==3.4.3
+en_core_web_sm
 altair==4.2.0
 pandas==1.5.2
